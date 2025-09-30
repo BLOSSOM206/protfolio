@@ -1,0 +1,53 @@
+#profile{
+    width:200px;
+    border: 10px solid pink;
+    border-radius: 50%;
+    display:flex;
+    margin:auto;
+}
+body{
+    background-image: url("img/backnew.jpg");
+    background-size:cover ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text {
+   
+   color: #f7e9f0; /* soft pinkish white */
+    text-shadow: 
+    2px 2px 4px rgba(0, 0, 0, 0.3); /* glowing pink aura */
+   
+    margin:30px auto 50px auto;
+    text-align: center;
+}
+
+#te{
+    
+    color:black;
+    margin-top:50px;
+    margin-bottom:0px;
+}
+.descrip{
+    color:black;
+    border: 8px solid pink;
+    background-color: white;
+    border-radius: 20px;
+    padding:20px;
+    
+}
+.log{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    
+    
+}
+#fin{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+
